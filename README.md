@@ -1,3 +1,3 @@
 # Web_Practice
-Lab #6
+Lab
 https://milana-bilych.github.io/Web_Practice/
