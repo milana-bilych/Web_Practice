@@ -93,19 +93,10 @@ npx nodemon server.js
 | Метод | Endpoint | Опис |
 |:------|:---------|:-----|
 | GET | `/api/students` | Отримати список всіх студентів |
-![image](https://github.com/user-attachments/assets/1662b974-2360-435f-9f30-9fa226a5edb8)
-
 | GET | `/api/students/:id` | Отримати студента за id |
-![image](https://github.com/user-attachments/assets/795d05b8-0374-4f4e-9cf5-0c3e2f32fce4)
-
 | POST | `/api/students` | Додати нового студента |
-![image](https://github.com/user-attachments/assets/2d4f79b4-eb9e-40c2-877c-f64ab4f4e0ea)
-
 | PUT | `/api/students/:id` | Оновити дані студента |
-![image](https://github.com/user-attachments/assets/860eb07f-dbaa-492d-b99e-ca25bfe5439e)
-
 | DELETE | `/api/students/:id` | Видалити студента |
-![image](https://github.com/user-attachments/assets/577a7c94-7fbb-45d1-9bac-b4fb2519c913)
 
 ---
 
@@ -121,6 +112,18 @@ npx nodemon server.js
   "major": "Cybersecurity"
 }
 ```
+
+---
+
+🧪 Тестування API
+Рекомендується використовувати Postman або Insomnia для перевірки роботи всіх маршрутів.
+
+📸 Скріншот прикладу тестування API:
+![image](https://github.com/user-attachments/assets/1662b974-2360-435f-9f30-9fa226a5edb8)
+![image](https://github.com/user-attachments/assets/795d05b8-0374-4f4e-9cf5-0c3e2f32fce4)
+![image](https://github.com/user-attachments/assets/2d4f79b4-eb9e-40c2-877c-f64ab4f4e0ea)
+![image](https://github.com/user-attachments/assets/860eb07f-dbaa-492d-b99e-ca25bfe5439e)
+![image](https://github.com/user-attachments/assets/577a7c94-7fbb-45d1-9bac-b4fb2519c913)
 
 ---
 
