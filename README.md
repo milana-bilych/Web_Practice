@@ -118,7 +118,7 @@ npx nodemon server.js
 🧪 Тестування API
 Рекомендується використовувати Postman або Insomnia для перевірки роботи всіх маршрутів.
 
-📸 Скріншот прикладу тестування API:
+📸 Скріншоти прикладу тестування API:
 ![image](https://github.com/user-attachments/assets/1662b974-2360-435f-9f30-9fa226a5edb8)
 ![image](https://github.com/user-attachments/assets/795d05b8-0374-4f4e-9cf5-0c3e2f32fce4)
 ![image](https://github.com/user-attachments/assets/2d4f79b4-eb9e-40c2-877c-f64ab4f4e0ea)
